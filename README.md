@@ -6,7 +6,7 @@ Web Developer
 
 Front-end developer passionate about creating engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, now focused on mastering React and Next.js to build modern and dynamic applications. Always seeking new challenges and continuous learning.
 
-* 🌍  I'm based in Maranhão
+* 🌍  I'm based in Brazil
 * ✉️  You can contact me at [carloseduardogit@gmail.com](mailto:carloseduardogit@gmail.com)
 * 🧠  I'm learning Nextjs
 
