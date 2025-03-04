@@ -8,6 +8,7 @@ Front-end developer passionate about creating engaging web experiences. With a s
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [carloseduardogit@gmail.com](mailto:carloseduardogit@gmail.com)
+* 🔥  My site: [click here](https://carlosedujs.vercel.app)
 * 🧠  I'm learning Nextjs
 
 ### Skills
